@@ -8,7 +8,7 @@
   <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
-replit - https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py
+replit - https://replit.com/@ankushsahoo004/RemUB#main.py
 
 <p align="center">
 <a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
